@@ -1,0 +1,17 @@
+{
+  "name": "cy-e2e-test-cases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.4.0",
+    "cypress-dotenv": "^3.0.1",
+    "dotenv": "^16.5.0"
+  }
+}
