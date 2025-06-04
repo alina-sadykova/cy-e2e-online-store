@@ -1,0 +1,31 @@
+[
+  { "key": "signupHeader", "value": "New User Signup!" },
+  { "key": "loginHeader", "value": "Login to your account" },
+  { "key": "nameLabel", "value": "Name" },
+  { "key": "emailLabel", "value": "Email Address" },
+  { "key": "signupButton", "value": "Signup" },
+  { "key": "accountInfoHeader", "value": "Enter Account Information" },
+  { "key": "titleLabel", "value": "Title" },
+  { "key": "nameField", "value": "Name" },
+  { "key": "emailField", "value": "Email" },
+  { "key": "passwordField", "value": "Password" },
+  { "key": "dobLabel", "value": "Date of Birth" },
+  { "key": "newsletterCheckbox", "value": "Sign up for our newsletter!" },
+  {
+    "key": "offersCheckbox",
+    "value": "Receive special offers from our partners!"
+  },
+  { "key": "firstName", "value": "First name" },
+  { "key": "lastName", "value": "Last name" },
+  { "key": "company", "value": "Company" },
+  { "key": "address1", "value": "Address" },
+  { "key": "address2", "value": "Address 2" },
+  { "key": "country", "value": "Country" },
+  { "key": "state", "value": "State" },
+  { "key": "city", "value": "City" },
+  { "key": "zipcode", "value": "Zipcode" },
+  { "key": "mobileNumber", "value": "Mobile Number" },
+  { "key": "createAccountButton", "value": "Create Account" },
+  { "key": "accountCreatedHeader", "value": "Account Created!" },
+  { "key": "continueButton", "value": "Continue" }
+]

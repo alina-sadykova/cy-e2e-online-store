@@ -1,0 +1,24 @@
+{
+  "title": "Mr.",
+  "fullname": "John",
+  "email": "johndd@gmail.com",
+  "existingEmail": "john@gmail.com",
+  "password": "Test@123",
+  "dob": {
+    "day": "10",
+    "month": "June",
+    "year": "1990"
+  },
+  "subscribe": true,
+  "offers": true,
+  "firstName": "John",
+  "lastName": "Doe",
+  "company": "OpenAI",
+  "address1": "123 Main Street",
+  "address2": "",
+  "country": "United States",
+  "state": "Illinois",
+  "city": "Chicago",
+  "zipcode": "123456",
+  "mobile": "312-123-1234"
+}
